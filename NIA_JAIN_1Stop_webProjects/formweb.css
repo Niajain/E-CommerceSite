@@ -1,0 +1,110 @@
+.CoffeeBooks
+{
+    background-image: url("coffeeBooks.jpg");
+}
+.html_form
+{
+    padding: 50px;
+}
+.html_form form{
+    margin:20px;
+    padding: 20px;
+    box-shadow: 1px 1px 16px black;
+    border-radius: 10px;
+    width: 50%;
+    text-align: center;
+
+    /* extra content */
+    background: rgb(0, 0, 0); /* Fallback color */
+    background: rgba(0, 0, 0, 0.3); /* Black background with 0.5 opacity */
+    color: #f1f1f1;
+    width: 50%;
+    /* margin-left: 200px; */
+}
+.html_form form h2
+{
+    /* font-size: 25px;
+    color:darkblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    font-weight: bolder;
+    box-shadow: 1px 1px 20px black;
+    background-color: aliceblue;
+    border-radius: 20px; */
+
+    color: #f1f1f1;
+    font-weight: bolder;
+    letter-spacing: 10px;
+    font-size: 40px;
+    font-family: 'Amiri', serif;
+    font-family: 'Corinthia', cursive;
+    font-family: 'Courgette', cursive;
+    font-family: 'Crete Round', serif;
+    font-family: 'Kaushan Script', cursive;
+    text-decoration: overline;
+}
+.html_form form label
+{
+    font-family:'Courier New', Courier, monospace;
+    font-weight:bold;
+    font-size: 18px;
+    color: aliceblue;
+}
+.html_form form input
+{
+    width: 80%;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    border-left: 2px solid crimson;
+    font-family: "lucida handwriting";
+    color: crimson;
+}
+.html_form form input:focus
+{
+    border-left: 4px solid gold;
+    border-right: 4px solid gold;
+    box-shadow: 1px 1px 8px black;
+    background-color: rgb(243, 236, 196);
+}
+.html_form form select
+{
+    width: 80%;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    border-left: 2px solid crimson;
+}
+.html_form form select:focus
+{
+    border-left: 4px solid gold;
+    background-color: rgb(247, 238, 189);
+}
+.html_form form button
+{
+    margin: 10px;
+    padding: 10px;
+    border: none;
+    background-color: brown;
+    color:aliceblue;
+    font-weight: bold;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+    font-size: 16px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 8px black;
+    border-bottom: 4px solid aliceblue;
+    font-family: 'Amiri', serif;
+    letter-spacing: 3px;
+}
+.html_form form button:hover
+{
+    background-color:black;
+    border:none;
+    color:orange;
+    border-bottom: 4px solid orange;
+    transition: 0.5s;
+}
