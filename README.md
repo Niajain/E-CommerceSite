@@ -1,9 +1,9 @@
-Welcome to BookWorm, an e-commerce website dedicated to books and reading enthusiasts. 
+# Welcome to BookWorm, an e-commerce website dedicated to books and reading enthusiasts. 
 BookWorm offers a comprehensive online platform where users can explore and purchase a wide variety of books, engage with captivating stories on the blog, and connect 
 with the community through the contact section. With a seamless login and sign-up process, users can personalize their experience, save their favorite books, and participate 
 in discussions about literature and storytelling.
 
-Project Overview
+# Project Overview
 BookWorm is designed to provide a rich and immersive experience for book lovers and avid readers. Key features of the platform include:
 
 Bookstore: Browse through an extensive collection of books spanning various genres, authors, and topics. Find bestsellers, classics, and hidden gems to add to your personal library.
