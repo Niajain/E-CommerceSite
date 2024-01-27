@@ -18,5 +18,5 @@ Homepage: Experience a visually stunning and user-friendly homepage that showcas
 
 Shopping Cart: Seamlessly add books to your shopping cart, review your selections, and proceed to checkout with ease. Enjoy secure payment processing and timely delivery of your purchases.
 
-Uploading E-Commerce - Google Chrome 2024-01-27 22-21-32 (1) (1) (1).mp4…
+
 
